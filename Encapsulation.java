@@ -2,22 +2,22 @@ public class Encapsulation {
     private String name;
     private int age;
 
-    // Setter for name
+    
     public void setName(String n) {
         name = n;
     }
 
-    // Getter for name
+    
     public String getName() {
         return name;
     }
 
-    // Setter for age
+
     public void setAge(int a) {
         age = a;
     }
 
-    // Getter for age
+    
     public int getAge() {
         return age;
     }
