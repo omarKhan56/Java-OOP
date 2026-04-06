@@ -1,4 +1,4 @@
-interface Abstraction_7 {
+interface Abstraction_7 { //imp interface can have default method with body
     default void show(){
         System.out.println("A");
     }
